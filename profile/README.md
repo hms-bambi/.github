@@ -2,7 +2,7 @@
 
 We are a collection of Harvard Medical School scientists interested in applying our technical skills to support local minority-owned/serving organizations. 
 
-We're interested in empowering Boston-area organizations to better achieve their aims, including but not limited to:
+We're seek to empower Boston-area organizations to better achieve their aims, including but not limited to:
 - Growing a business
 - Developing investor materials
 - Engaging customers
